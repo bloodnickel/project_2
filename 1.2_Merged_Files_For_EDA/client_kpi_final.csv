@@ -1,0 +1,3 @@
+variation,clients,clients_with_web_activity,completed_any_rate,avg_completion_rate,straight_through_any_rate,avg_straight_through_rate,friction_any_rate,avg_friction_rate,backtracking_any_rate,avg_backtracking_rate,repeated_step_any_rate,avg_repeated_step_rate
+Control,23532,23532,0.6559,0.565,0.4026,0.3498,0.6938,0.6502,0.2582,0.2082,0.4225,0.36
+Test,26968,26968,0.6929,0.6245,0.3929,0.3407,0.7017,0.6593,0.3339,0.2744,0.521,0.4492
